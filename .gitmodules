@@ -1,0 +1,27 @@
+[submodule "cicdjenkins"]
+	path = cicdjenkins
+	url = git@github.com:MiguelA05/cicdjenkins.git
+[submodule "jwtmanual-taller1-micro"]
+	path = jwtmanual-taller1-micro
+	url = git@github.com:Tourment0412/jwtmanual-taller1-micro.git
+[submodule "notifications-service-micro"]
+	path = notifications-service-micro
+	url = git@github.com:MiguelA05/notifications-service-micro.git
+[submodule "orquestador-solicitudes-micro"]
+	path = orquestador-solicitudes-micro
+	url = git@github.com:Tourment0412/orquestador-solicitudes-micro.git
+[submodule "automation-tests"]
+	path = automation-tests
+	url = git@github.com:MiguelA05/automation-tests.git
+[submodule "gestion-perfil-micro"]
+	path = gestion-perfil-micro
+	url = git@github.com:Tourment0412/gestion-perfil-micro.git
+[submodule "api-gateway-micro"]
+	path = api-gateway-micro
+	url = git@github.com:MiguelA05/api-gateway-micro.git
+[submodule "health-check-app-micro"]
+	path = health-check-app-micro
+	url = git@github.com:AndresZunigaZ2005/health-check-app-micro.git
+[submodule "observability"]
+	path = observability
+	url = git@github.com:MiguelA05/observability.git

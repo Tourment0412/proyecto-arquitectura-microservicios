@@ -44,10 +44,10 @@ permite:
 -   conservar su historial individual
 -   actualizarlos de forma independiente
 
-Para sincronizarlos cuando se actualicen individualmente:
+Para sincronizarlos cuando se actualicen individualmente (Para continuar el trabajo en ellos en la rama):
 
 ``` bash
-git submodule update --remote
+git submodule update --remote --merge
 ```
 
 ------------------------------------------------------------------------
